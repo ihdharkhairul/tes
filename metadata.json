@@ -1,0 +1,6 @@
+{
+  "name": "LAPORIN - Road Damage AI Reporter",
+  "description": "Aplikasi pelaporan kerusakan jalan publik berbasis AI Deep Learning dengan deteksi lubang, koordinat GPS, pelacakan status penanganan, dan mode offline.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
