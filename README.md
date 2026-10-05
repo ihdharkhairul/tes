@@ -1,17 +1,1 @@
 
-Kalau kamu ingin **lebih simpel lagi**, cukup:
-
-```md
-# Testing Awal AI Studio
-
-Project ini merupakan testing awal aplikasi menggunakan Google AI Studio.
-
-## Status
-
-🚧 Testing Awal
-
-## Menjalankan Project
-
-```bash
-npm install
-npm run dev
